@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Anannya 👋
+
+🎓 **Computer science** student at Indiana University Bloomington<br/>
+📊 **Main focus**: Data Analysis & Data Engineering<br/>  
+💻 **Also interested in**: Software Engineering <br/> 
+🔎 **Currently exploring**: Advanced analytics, building data pipelines, and using tech to turn data into real insights  <br/>
+🌱 **Learning more about**: Cloud computing and ML-driven solutions  <br/>
+🤝 **Open to collaborating on**: Data-driven projects, software tools, or anything interesting in tech  <br/>
+
 
 
 ## 🌐 Socials:
